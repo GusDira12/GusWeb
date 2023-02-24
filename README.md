@@ -1,4 +1,4 @@
-# GusWeb
-hey! this is all about me trying to make all about web, from HTML/CSS, to JS.
+# goose does web
+html, css, the confusing js templates and all go here
 
-you get to see my progress here, not sure why but here you go.
+no idea how I'll organize this but I'll try
